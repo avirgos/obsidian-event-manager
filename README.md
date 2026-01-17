@@ -1,0 +1,1 @@
+# obsidian-event-manager
